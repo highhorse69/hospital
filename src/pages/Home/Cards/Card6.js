@@ -15,7 +15,7 @@ const Card6=()=>{
   <div class="pa3 bt">
     <h1 class="f6 f5-ns lh-copy measure mv0  ">Psychiatric Problem</h1>
      <hr/>
-     <p>1 hr</p>
+   
 
      
   </div>

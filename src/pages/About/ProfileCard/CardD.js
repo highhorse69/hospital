@@ -1,4 +1,4 @@
-import React from 'react';
+ import React from 'react';
 
 
 const CardD=()=>{
@@ -8,6 +8,7 @@ const CardD=()=>{
 		<pre> <h1 class="f4 bg-near-black white mv0 pv3 pt0 ph3 ">
 
 DR. ANKIT PANDEY</h1></pre>
+<p>(Founder And Head Of Psychiatric Department)</p>
 		
 	
 		<div>

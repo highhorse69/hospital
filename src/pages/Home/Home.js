@@ -25,14 +25,14 @@ const Home = () => {
     
 
 
-  <img class=" br-50  ba h4 w4 dib" src='https://static.wixstatic.com/media/5eaa0a_43db87342e594e1bbdd86eb7133561db~mv2.png/v1/fill/w_240,h_240,al_c,q_85,usm_0.66_1.00_0.01/Blue%20and%20Cyan%20Modern%20Icons%20General%20Hospital%20Logo.webp' alt="Logo" />
+  <img class="tc br-50  ba h4 w4 dib" src='https://static.wixstatic.com/media/5eaa0a_43db87342e594e1bbdd86eb7133561db~mv2.png/v1/fill/w_240,h_240,al_c,q_85,usm_0.66_1.00_0.01/Blue%20and%20Cyan%20Modern%20Icons%20General%20Hospital%20Logo.webp' alt="Logo" />
 </article>
 
-    <pre>  <h1 class='home_service'><mark>CHANDRAPRABHA HOSPITAL , PSYCHIATRY AND DE-ADDICTION CENTER</mark></h1></pre>
+     <h1 class='home_service'><mark>CHANDRAPRABHA HOSPITAL , PSYCHIATRY AND DE-ADDICTION CENTER</mark></h1>
     
-         <pre> <h1 className="text-center" style={{paddingTop: "10%"}}>
+          <h1 className="text-center" style={{paddingTop: "10%"}}>
              Exceeding Expectations, One Patient at a Time
-          </h1></pre>
+          </h1>
 
 
           <div class="pa4 tc">
@@ -223,7 +223,7 @@ const Home = () => {
 </p></pre>
                                              <pre>  <p> <mark>chandraprabhahospital@gmail.com</mark></p></pre>
 
-                                                  <pre>    <p> <mark>7985186328, 9415448544</mark></p></pre>
+                                                  <pre>    <p> <mark>7985186328, 9628279780</mark></p></pre>
 
                 
 
