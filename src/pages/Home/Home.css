@@ -1,0 +1,48 @@
+
+.campusSecond {
+  display: flex;
+  width: 70%;
+
+
+
+  margin-bottom: 10%;
+  background-color: rgb(4, 4, 49);
+ 
+}
+
+
+.campusSecond__left {
+  /* background-color: #8686c1; */
+/*  background: url("../../../Assets/campusFirstImage.jpg");*/
+  background-repeat: no-repeat;
+  width: 40%;
+  padding-top: 10%;
+  padding-left: 5%;
+  padding-right: 4%;
+  border: none;
+  border-radius: 15px 0px 0px 15px;
+}
+
+
+.campusSecond__right {
+  width: 60%;
+  justify-content: center;
+  padding:auto;
+margin:auto;
+text-align:centre;
+/*  background-color: #dbe3ff;*/
+  border-radius: 0px 15px 15px 0px;
+  padding-right: 10%;
+  padding-left: 4%;
+  padding-top: 3%;
+/*  border: 1px solid white;*/
+}
+
+.home_service{
+
+  text-align: center;
+}
+.img{
+  justify-content: center;
+  width: 100%;
+ }
