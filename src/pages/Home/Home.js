@@ -218,9 +218,9 @@ const Home = () => {
 
             <div class='home_service'>
               <pre> <h1>CONTACT US</h1></pre>
-             <pre> <p>
+              <p>
                <mark>Tagore Town Colony, Gate no.3, U.P. college- mahavir mandir road, Orderly Bazaar- bhojubeer, Varanasi, 221002</mark>
-</p></pre>
+</p>
                                              <pre>  <p> <mark>chandraprabhahospital@gmail.com</mark></p></pre>
 
                                                   <pre>    <p> <mark>7985186328, 9628279780</mark></p></pre>

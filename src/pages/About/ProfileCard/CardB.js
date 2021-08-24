@@ -21,7 +21,7 @@ Soumya Srivastava</h1></pre>
          Banaras Hindu University
     </mark>
     <br/>
-    Ms. Srivastava is currently working as a Ansultant Counseling Psychologist at Chandraprabha neuro, psychiatry and de addiction Hospital, Varanasi. She is the founder and lead counseling psychologist at Tristha: A mental health initiative. She has also worked as a College Counselor at Baranas Institute of Teacher's Education, Varanasi. Along with an experience at Ram Manohar Lohia Hospital, Lucknow at the Department of Physical Medicine and Rehabilitation. She has completed her bachelor's and master's in psychology from Banaras Hindu University and has been awarded BHU Gold Medal and Punam Memorial Gold Medal.
+    Ms. Srivastava is currently working as a Consultant Counseling Psychologist at Chandraprabha neuro, psychiatry and de addiction Hospital, Varanasi. She is the founder and lead counseling psychologist at Tristha: A mental health initiative. She has also worked as a College Counselor at Baranas Institute of Teacher's Education, Varanasi. Along with an experience at Ram Manohar Lohia Hospital, Lucknow at the Department of Physical Medicine and Rehabilitation. She has completed her bachelor's and master's in psychology from Banaras Hindu University and has been awarded BHU Gold Medal and Punam Memorial Gold Medal.
   
  
 </article>

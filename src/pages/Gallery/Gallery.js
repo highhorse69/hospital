@@ -23,7 +23,7 @@ import CardF8 from './CardsF/CardF8';
 const Gallery = () => {
   return (
   <div className="container">
-   <pre> <h1 class='tc'><b>Happiness is only real,when Shared!</b></h1></pre>
+    <h1 class='tc f6 f3-ns lh-copy'><b>Happiness is only real,when Shared!</b></h1>
   
                   <div class="flex justify-center">
                        <div class=" w-200 pv0 mr2 tc bg-navy dib br3 pd4 ma2 grow bw2 shadow-5">

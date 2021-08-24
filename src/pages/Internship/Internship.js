@@ -124,7 +124,7 @@ Registration will be closed on 29th Sept, 2021.
             <h3><b>Resouce Person</b></h3>
 <pre><b>Soni Jaiswal</b></pre>
 <pre>(RCI Registered Clinical Psychologist[CRR NO.A56168])</pre>
-<pre><b>Soumya Srivastava</b></pre>
+<pre><b>Soumya Srivastava[Internship-Coordinator]</b></pre>
 <pre>(Consultant Counseling Psychologist)</pre>
  <pre>email:medsbeyond@gmail.com</pre>
 
