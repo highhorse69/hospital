@@ -43,7 +43,7 @@ const Home = () => {
             
             
 
-       <p>     Chandarprabha hospital was established 20 years back with its aim to understand and empathize with the suffering of people. The primary ideology behind its establishment was to serve people and their needs in the best of their interest. Our establishment cordially and warmly welcomes all people who deserve to seek integrated medical health care support and treatment. 
+       <p>     Chandraprabha hospital was established 20 years back with its aim to understand and empathize with the suffering of people. The primary ideology behind its establishment was to serve people and their needs in the best of their interest. Our establishment cordially and warmly welcomes all people who deserve to seek integrated medical health care support and treatment. 
 
 
 
