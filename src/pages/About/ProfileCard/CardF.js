@@ -15,11 +15,18 @@ Soni Jaiswal</h1></pre>
 
 		<mark>
 		Clinical Psychologist (RCI registered) Assistant Professor of Psychology Department of Psychology Gargi College, University of Delhi
+		Neuro Linguistic Programming (NLP) Practitioner (Level I & II)
+Mindfulness Practitioner (Level I, II, III & Master)
+Cognitive Behavioral Therapy (CBT) Practitioner
+Membership with Indian Association of Clinical Psychologist (IACP)
     </mark>
     <br/>
    Ms. Jaiswal is currently teaching Psychology in the
 
-Department of Psychology, Gargi College, University of Delhi. She has completed her Master's in Psychology from Banaras Hindu University and Mphil in Clinical Psychology from LGB Regional Institute of Mental Health, Tezpur, Assam. She has worked in the Department of Clinical Psychology, Amity University, Lucknow as Assistant Professor and All India Institute of Medical Sciences (AIIMS), New Delhi as a Clinical Psychologist.
+Department of Psychology, Gargi College, University of Delhi. She has completed her Master's in Psychology from Banaras Hindu University and Mphil in Clinical Psychology from LGB Regional Institute of Mental Health, Tezpur, Assam. She has worked in the Department of Clinical Psychology, Amity University, Lucknow as Assistant Professor and All India Institute of Medical Sciences (AIIMS), New Delhi as a Clinical Psychologist and
+She has done many paper presentations in Indian and International conferences. 
+She has participated as panelist or resource person in Indian and International conferences and 
+have 6 years of experience in the field.
 
   
  

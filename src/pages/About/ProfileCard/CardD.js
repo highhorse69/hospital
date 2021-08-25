@@ -5,6 +5,8 @@ const CardD=()=>{
 	
 		return (
 		<div className=' tc bg-cyan dib br3 pd4 pv3 ma2 grow bw2 shadow-5'>
+		
+		
 		<pre> <h1 class="f4 bg-near-black white mv0 pv3 pt0 ph3 ">
 
 DR. ANKIT PANDEY</h1></pre>
