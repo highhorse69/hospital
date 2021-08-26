@@ -23,10 +23,10 @@ const About = () => {
                   </div>
                     <div class="flex justify-center">
                        <div class=" w-200 pv0 mr2 tc bg-navy dib br3 pd4 ma2 grow bw2 shadow-5">
-                          <CardB />
+                          <CardF/>
                         </div>
                         <div class=" w-200 pv0 mr2">
-                          <CardA/>
+                          <CardE/>
                          </div>
                   </div>
 
@@ -34,10 +34,10 @@ const About = () => {
 
                    <div class="flex justify-center">
                        <div class=" w-200 pv0 mr2 tc bg-navy dib br3 pd4 ma2 grow bw2 shadow-5">
-                          <CardE />
+                          <CardA/>
                         </div>
                         <div class=" w-200 pv0 mr2">
-                          <CardF/>
+                          <CardB/>
                          </div>
 
 
