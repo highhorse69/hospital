@@ -112,7 +112,9 @@ Registration will be closed on 29th Sept, 2021.
             &nbsp;
             &nbsp;
             <h3><b>Internship Fees:</b></h3>
-            <pre>Rs. 5000/-</pre>
+            <pre>Rs. 4500/-</pre>
+           <b> <pre>Certificate will be provided,after completion of internship</pre></b>
+          <b> <pre>450+ students intership,grab it soon !!</pre></b>
              &nbsp;
 
 

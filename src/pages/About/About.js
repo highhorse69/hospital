@@ -44,14 +44,7 @@ const About = () => {
                   </div>
 
 
-                  <div class="flex justify-center">
-                       <div class=" w-200 pv0 mr2 tc bg-navy dib br3 pd4 ma2 grow bw2 shadow-5">
-                          <CardH />
-                        </div>
-                        <div class=" w-200 pv0 mr2">
-                          <CardG/>
-                         </div>
-                  </div>
+
         </div>
       
  

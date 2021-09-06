@@ -6,6 +6,7 @@ import D from './images/D.jpeg';
 import E from './images/E.jpeg';
 import F from './images/F.jpeg';
 import G from './images/G.jpeg';
+import H from './images/H.jpeg';
 
 
 const CardF1=()=>{
@@ -17,7 +18,7 @@ const CardF1=()=>{
 
 		<article class="center mw5 mw6-ns hidden ba mv4">
  
-		<img alt='u' src={A}/>
+		<img alt='u' src={H}/>
 		<pre>✨_______________________________✨</pre>
 		<img alt='u' src={B}/>
 		<pre>✨_______________________________✨</pre>
