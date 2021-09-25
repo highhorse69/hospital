@@ -48,7 +48,7 @@ const Internship = () => {
 
 
         <h3 ><b>When will the internship start?</b></h3>
-      <p>  Applications for October 2021 batch of internship are now open. Internship will start from Wednesday, Oct, 2021.</p>
+      <p>  Applications for October 2021 batch of internship are now open.</p>
 &nbsp;
             &nbsp;
 
@@ -60,9 +60,6 @@ const Internship = () => {
 <h3><b>How to register?</b></h3>
 <pre>
 <a href='https://forms.gle/m6n6Kq8mPKjHGNnGA'>Click me to Register!!</a>
-</pre>
-<pre>   
-Registration will be closed on 29th Sept, 2021.
 </pre>
        
        &nbsp;
@@ -112,7 +109,7 @@ Registration will be closed on 29th Sept, 2021.
             &nbsp;
             &nbsp;
             <h3><b>Internship Fees:</b></h3>
-            <pre>Rs. 4500/-</pre>
+            <pre>Rs. 3500/-</pre>
            <b> <pre>Certificate will be provided,after completion of internship</pre></b>
          
              &nbsp;
